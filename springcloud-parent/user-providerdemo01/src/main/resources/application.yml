@@ -1,0 +1,15 @@
+server:
+  port: 18083
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: a1414914
+    url: jdbc:mysql://127.0.0.1:3306/springcloud
+  application:
+    name: user-provider
+eureka:
+  client:
+    register-with-eureka: true #把自己添加到注册中心
+    service-url:
+      defaultZone: http://localhost:7001/eureka

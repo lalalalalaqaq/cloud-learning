@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7699cb2-ffb4-40b0-b75a-a234cf99aec7" name="更改" comment="seconed commit">
+      <change afterPath="$PROJECT_DIR$/.ideaDataSources/593f677a-b076-4c16-935e-ef400b0d38d0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ideaDataSources/dff3d691-0ee0-429d-be40-d81f3ac13723.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/593f677a-b076-4c16-935e-ef400b0d38d0/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/dff3d691-0ee0-429d-be40-d81f3ac13723/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/springcloud-day1-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/src/main/java/com/edu/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/src/main/java/com/edu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/src/main/java/com/edu/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/target/classes/com/edu/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/target/classes/com/edu/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-provider/target/classes/com/edu/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/springcloud-day1-resttemplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/src/main/java/com/edu/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/src/test/java/com/edu/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/target/classes/com/edu/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-day1-resttemplate/target/test-classes/com/edu/ApplicationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/eureka_server/eureka_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/eureka_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/eureka_server/src/main/java/com/edu/EurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/eureka_server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/eureka_server/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/eureka_server/target/classes/com/edu/EurekaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/gateway-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/src/main/java/com/edu/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/src/main/java/com/edu/filter/LoginGlobalFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/src/main/java/com/edu/filter/MyParamGatewayFilterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/target/classes/com/edu/GatewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/target/classes/com/edu/filter/LoginGlobalFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/target/classes/com/edu/filter/MyParamGatewayFilterFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/target/classes/com/edu/filter/MyParamGatewayFilterFactory$Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/gateway-service/target/classes/com/edu/filter/MyParamGatewayFilterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/springcloud-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu/controller/ConsumerFeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu/controller/DefaultController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu/feign/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu/feign/UserClinetFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/com/edu/ConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/com/edu/controller/ConsumerFeignController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/com/edu/controller/DefaultController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/com/edu/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/com/edu/feign/UserClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/com/edu/feign/UserClinetFallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/target/classes/com/edu/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-consumer/user-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/src/main/java/com/edu/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/src/main/java/com/edu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/src/main/java/com/edu/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/src/main/java/com/edu/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/src/main/java/com/edu/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/src/main/java/com/edu/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/target/classes/com/edu/ProviderApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/target/classes/com/edu/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/target/classes/com/edu/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/target/classes/com/edu/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/target/classes/com/edu/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/target/classes/com/edu/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-provider/user-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/src/main/java/com/edu/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/src/main/java/com/edu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/src/main/java/com/edu/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/src/main/java/com/edu/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/src/main/java/com/edu/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/src/main/java/com/edu/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/target/classes/com/edu/ProviderApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/target/classes/com/edu/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/target/classes/com/edu/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/target/classes/com/edu/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/target/classes/com/edu/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/target/classes/com/edu/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/user-providedemo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-parent/user-providerdemo01/user-providerdemo01.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="242t0Qwe0wqDxtZ0t2Yhny7Rut5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DELOMBOK_PRE_COMMIT" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="所有位置" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/springcloud-parent/user-consumer/src/main/java/com/edu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30825242" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javahome\Regexp\SpringCloud\springcloud-parent" />
+      <recent name="D:\javahome\Regexp\SpringCloud\springcloud-parent\eureka_server\src\main\java" />
+      <recent name="D:\javahome\Regexp\SpringCloud\springcloud-parent\user-provider" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.edu.pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderApplication">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-providedemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProviderApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.ProviderApplication (1)" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d7699cb2-ffb4-40b0-b75a-a234cf99aec7" name="更改" comment="" />
+      <created>1642840287345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642840287345</updated>
+      <workItem from="1642840288658" duration="4770000" />
+      <workItem from="1642861345098" duration="6115000" />
+      <workItem from="1642869939793" duration="1699000" />
+      <workItem from="1642871680853" duration="263000" />
+      <workItem from="1642918780624" duration="9000" />
+      <workItem from="1642992087155" duration="8494000" />
+      <workItem from="1643021440176" duration="3987000" />
+      <workItem from="1643034293055" duration="464000" />
+      <workItem from="1643034943528" duration="7709000" />
+      <workItem from="1643098722565" duration="12958000" />
+      <workItem from="1643125635426" duration="100000" />
+      <workItem from="1643377705547" duration="124000" />
+      <workItem from="1643555591146" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.netflix.hystrix:hystrix-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:jul-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.bind:jakarta.xml.bind-api" />
+    <option featureType="dependencySupport" implementationName="java:org.javassist:javassist" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-loadbalancer" />
+    <option featureType="dependencySupport" implementationName="java:com.zaxxer:HikariCP" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.eureka:eureka-client" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:net.minidev:accessors-smart" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.gson:gson" />
+    <option featureType="dependencySupport" implementationName="java:org.aspectj:aspectjweaver" />
+    <option featureType="dependencySupport" implementationName="java:xpp3:xpp3_min" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-core" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml:classmate" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-test" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jsr310" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-hystrix" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:jaxb-runtime" />
+    <option featureType="dependencySupport" implementationName="java:javax.ws.rs:jsr311-api" />
+    <option featureType="dependencySupport" implementationName="java:org.skyscreamer:jsonassert" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-websocket" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-classic" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-netflix-archaius" />
+    <option featureType="dependencySupport" implementationName="java:org.mockito:mockito-junit-jupiter" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:txw2" />
+    <option featureType="dependencySupport" implementationName="java:commons-lang:commons-lang" />
+    <option featureType="dependencySupport" implementationName="java:org.opentest4j:opentest4j" />
+    <option featureType="dependencySupport" implementationName="java:org.objenesis:objenesis" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-tx" />
+    <option featureType="dependencySupport" implementationName="java:junit:junit" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-rsa" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jcl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-web" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-aop" />
+    <option featureType="dependencySupport" implementationName="java:org.bouncycastle:bcprov-jdk15on" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpcore" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-core" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-databind" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.jettison:jettison" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-netflix-eureka-client" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss.logging:jboss-logging" />
+    <option featureType="dependencySupport" implementationName="java:commons-collections:commons-collections" />
+    <option featureType="dependencySupport" implementationName="java:org.ow2.asm:asm" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:slf4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-commons" />
+    <option featureType="dependencySupport" implementationName="java:com.google.guava:guava" />
+    <option featureType="dependencySupport" implementationName="java:org.yaml:snakeyaml" />
+    <option featureType="dependencySupport" implementationName="java:antlr:antlr" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-archaius" />
+    <option featureType="dependencySupport" implementationName="java:commons-configuration:commons-configuration" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-test-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-netflix-ribbon" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-json" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.eureka:eureka-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-expression" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jdk8" />
+    <option featureType="dependencySupport" implementationName="java:org.reactivestreams:reactive-streams" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxnetty-servo" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpclient" />
+    <option featureType="dependencySupport" implementationName="java:mysql:mysql-connector-java" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.woodstox:stax2-api" />
+    <option featureType="dependencySupport" implementationName="java:org.assertj:assertj-core" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-parameter-names" />
+    <option featureType="dependencySupport" implementationName="java:com.vaadin.external.google:android-json" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:stringtemplate" />
+    <option featureType="dependencySupport" implementationName="java:org.apiguardian:apiguardian-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:org.mockito:mockito-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-statistics" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.transaction:jakarta.transaction-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hdrhistogram:HdrHistogram" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy" />
+    <option featureType="dependencySupport" implementationName="java:org.xmlunit:xmlunit-core" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-params" />
+    <option featureType="dependencySupport" implementationName="java:javax.inject:javax.inject" />
+    <option featureType="dependencySupport" implementationName="java:commons-codec:commons-codec" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-validation" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:antlr-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.platform:junit-platform-engine" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy-agent" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-data-jpa" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.vintage:junit-vintage-engine" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-client" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss:jandex" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aspects" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-eventbus" />
+    <option featureType="dependencySupport" implementationName="java:org.dom4j:dom4j" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-test" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-httpclient" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-beans" />
+    <option featureType="dependencySupport" implementationName="java:com.jayway.jsonpath:json-path" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.common:hibernate-commons-annotations" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-transport" />
+    <option featureType="dependencySupport" implementationName="java:stax:stax-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-jpa" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-ribbon" />
+    <option featureType="dependencySupport" implementationName="java:joda-time:joda-time" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.activation:jakarta.activation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.xml.fastinfoset:FastInfoset" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-cache" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-engine" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-math" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-eureka-client" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey.contribs:jersey-apache-client4" />
+    <option featureType="dependencySupport" implementationName="java:org.jvnet.staxex:stax-ex" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-crypto" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-tomcat" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-annotations" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxnetty" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-test" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-core" />
+    <option featureType="dependencySupport" implementationName="java:xmlpull:xmlpull" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxnetty-contexts" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.platform:junit-platform-commons" />
+    <option featureType="dependencySupport" implementationName="java:aopalliance:aopalliance" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-eureka" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.annotation:jakarta.annotation-api" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-loadbalancer" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-orm" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-context-support" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.archaius:archaius-core" />
+    <option featureType="dependencySupport" implementationName="java:com.thoughtworks.xstream:xstream" />
+    <option featureType="dependencySupport" implementationName="java:commons-jxpath:commons-jxpath" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-context" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor.addons:reactor-extra" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.servo:servo-core" />
+    <option featureType="dependencySupport" implementationName="java:com.stoyanr:evictor" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-core" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.istack:istack-commons-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aop" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.woodstox:woodstox-core" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-loadbalancer" />
+    <option featureType="dependencySupport" implementationName="java:net.minidev:json-smart" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-infix" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-commons-util" />
+    <option featureType="dependencySupport" implementationName="java:org.bouncycastle:bcpkix-jdk15on" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-web" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-el" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-api" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-core" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="seconed commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="seconed commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud-parent/gateway-service/src/main/java/com/edu/filter/LoginGlobalFilter.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

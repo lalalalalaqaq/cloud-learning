@@ -1,0 +1,29 @@
+server:
+  port: 18084
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    gateway:
+      routes:
+        # 用户所有以/user开始的请求，都给http://localhost:18081服务处理
+        #id唯一标识，可自定义 , 随便写，可以写小红，小花都行
+        - id: user-service-route
+          #路由的服务地址
+          uri: lb://user-provider
+          # 路由拦截的地址配置（断言）
+          # /user/**所有以/user开始的请求都将被路由到uri指定的服务地址，
+          # 将该请求交给uri指定的服务处理，比如请求：http://localhost:18084/user/find/2会把请求交给http://localhost:18081/user/find/2处理
+          predicates:
+            - Path=/**
+          filters:
+#            - PrefixPath=/user # 添加一个前缀
+            - StripPrefix=1
+#            - MyParam
+      default-filters:
+        # 往响应过滤器中加入信息
+        - AddResponseHeader=X-Response-Default-MyName,atguigu
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
