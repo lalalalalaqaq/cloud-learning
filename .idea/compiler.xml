@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fescar-api" target="1.5" />
+      <module name="fescar-business" target="1.5" />
+      <module name="fescar-eureka" target="1.5" />
+      <module name="fescar-item" target="1.5" />
+      <module name="fescar-order" target="1.5" />
+      <module name="fescar-parent" target="1.5" />
+      <module name="fescar-user" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
